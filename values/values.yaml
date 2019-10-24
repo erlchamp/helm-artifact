@@ -6,8 +6,8 @@ name: hugo
 replicaCount: 1
 
 image:
-  repository: ""
-  tag: ""
+  repository: erlchamp/hugo
+  tag: latest
   pullPolicy: Always
 
 
